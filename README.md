@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some small project
 - 📫 How to reach me is pretty ebulliently simple , just reach out to my GitHub account 
 - 😄 Pronouns: Learning programming languages is such sensationally sophisticated but why am i supposed to give up!
-- ⚡ Fun fact: I sometime lashed up time on Leetcode.
+- ⚡ Fun fact: I sometime lashed up some hours on Leetcode.
 
 <!---
 NeoPhenon/NeoPhenon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

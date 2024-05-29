@@ -45,7 +45,11 @@
   </a>
 </p>
 
-Check out my coding challenges and solutions on [LeetCode]([https://leetcode.com/NeoPhenon/]).
+<p align="center">
+  <a href="https://leetcode.com/u/NeoPhenonmanon/" target="_blank" aria-label = "leetCodeImg">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
 <!---
 NeoPhenon/NeoPhenon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

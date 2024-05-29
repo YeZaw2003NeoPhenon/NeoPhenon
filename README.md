@@ -45,7 +45,7 @@
   </a>
 </p>
 
-Check out my coding challenges and solutions on [LeetCode]([https://leetcode.com/NeoPhenon/](https://leetcode.com/u/NeoPhenonmanon/)).
+Check out my coding challenges and solutions on [LeetCode]([https://leetcode.com/NeoPhenon/]).
 
 <!---
 NeoPhenon/NeoPhenon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

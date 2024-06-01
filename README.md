@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="[https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white](https://in.pinterest.com/pin/812336851547510988/)" alt="Java"/>
   </a>
   <a href="https://spring.io/projects/spring-framework" target="_blank">
     <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC"/>
